@@ -8,3 +8,5 @@ Trabalho sobre a Engenharia de Requisitos, com o objetivo de que seja produzido 
 
 [![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Artigo%20na%20Plataforma-00A8FF?style=for-the-badge)](https://docs.google.com/document/d/1CcwSsHe5JbfoRZmdNQIfjMLhrjjiStjGiWNXNdYNqJY/edit?usp=sharing)
 
+<h3>Nome: Wallan De Melo Lima</h3>
+<h3>Turma: BSI 122</h3>
